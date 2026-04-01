@@ -93,9 +93,6 @@ DDR_Generator/
 └── requirements.txt
 ```
 
-## 🤝 Contributing & License
-
-MIT License - Fork, improve, PR!
 
 ---
 
